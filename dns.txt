@@ -1,0 +1,5 @@
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp2.apple.com
+0.0.0.0 gdmf.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 appattest.apple.com
