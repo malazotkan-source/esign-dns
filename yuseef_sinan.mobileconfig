@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDescription</key>
+            <string>Custom DNS for eSign</string>
+            <key>PayloadDisplayName</key>
+            <string>yuseef_sinan DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.yuseef.dns</string>
+            <key>PayloadType</key>
+            <string>com.apple.transparentproxy.notapplicable</string>
+            <key>PayloadUUID</key>
+            <string>12345678-1234-1234-1234-1234567890AB</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ServerAddress</key>
+            <string>لێرە IP یان لینکێ سرڤەرێ خۆ دانی</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>yuseef_sinan DNS Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.yuseef.profile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>87654321-4321-4321-4321-ba0987654321</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
